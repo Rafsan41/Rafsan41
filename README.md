@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsan41&label=Profile%20views&color=0e75b6&style=flat" alt="rafsan41" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Nextjs, Prisma, Golang**
+- 🌱 I’m currently learning **Typescript, Nextjs, Prisma, Golang, MySQL, PostgreSQL **
 
 - 📫 How to reach me **rafsundipto116@gmail.com**
 
