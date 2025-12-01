@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rafsundipto116@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me directly via WhatsApp:  +8801776610116</h3>
 <p align="left">
 </p>
 
