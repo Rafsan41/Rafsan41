@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsan41&label=Profile%20views&color=0e75b6&style=flat" alt="rafsan41" /> </p>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div
 - 🌱 I’m currently learning **Typescript, Nextjs, Prisma, Golang, MySQL, PostgreSQL **
 
 - 📫 How to reach me **rafsundipto116@gmail.com**
