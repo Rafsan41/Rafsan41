@@ -1,85 +1,233 @@
+<!-- ═══════════════════════════════════════════════════════════════════════
+     BANNER
+════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rafsan+%F0%9F%91%8B;Full+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+production+apps+on+Vercel" alt="Typing SVG" />
+  <img src="./banner/banner.png" width="100%" alt="Rafsan Dipto — Full Stack Developer" />
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-rafsandev.vercel.app-10b981?style=flat-square&logo=vercel&logoColor=white)](https://rafsandev.vercel.app)
-[![Email](https://img.shields.io/badge/email-rafsundipto116@gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:rafsundipto116@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rafsan41&color=10b981&style=flat-square&label=profile+views)](https://github.com/Rafsan41)
-
-</div>
-
----
-
-```typescript
-const rafsan = {
-  role:     "Full Stack Developer",
-  location: "Bangladesh 🇧🇩",
-  stack:    ["Next.js", "Node.js", "TypeScript", "PostgreSQL", "Prisma"],
-  shipping: "production apps on Vercel",
-  status:   "open_to_work ✅",
-  contact:  "rafsundipto116@gmail.com",
-};
-```
-
----
-
-## ⚙️ Tech Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-10b981?style=flat-square&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **GreenRoots** | Full-stack herbal e-commerce with auth, cart, orders & admin dashboard | Next.js · Node.js · PostgreSQL · Prisma · Google OAuth | [Live ↗](https://greenroots-mauve.vercel.app) · [Repo ↗](https://github.com/Rafsan41/L2B6A5-GreenRoots-Client) |
-| **MediStore** | Multi-role medicine store with Admin, Seller & Customer dashboards, inventory & checkout | Next.js · Node.js · PostgreSQL · Prisma · RBAC | [Live ↗](https://medicinestores.vercel.app) · [Repo ↗](https://github.com/Rafsan41/L2B6A4) |
-
----
-
-## 📊 GitHub Stats
-
+<!-- ═══════════════════════════════════════════════════════════════════════
+     TYPING ANIMATION + STATUS
+════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafsan41&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=1f1f1f&icon_color=10b981&title_color=10b981&text_color=e6e6e6&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsan41&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1f1f1f&title_color=10b981&text_color=e6e6e6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafsan+Dipto;Full+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production+apps+%26+SaaS+platforms;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
+
+<br/><br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+&nbsp;
+![Location](https://img.shields.io/badge/📍%20Bangladesh-FF6B35?style=for-the-badge&labelColor=1a1a2e)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-rafsandev.vercel.app-10b981?style=for-the-badge&labelColor=1a1a2e)](https://rafsandev.vercel.app)
 
 </div>
 
+<br/>
+
 ---
 
-## 📬 Reach Me
+<!-- ═══════════════════════════════════════════════════════════════════════
+     ABOUT ME
+════════════════════════════════════════════════════════════════════════ -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsan41&layout=compact&theme=dark&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e6e6e6&hide_border=false" alt="Top Languages" width="340" />
 
-- 🌐 Portfolio — [rafsandev.vercel.app](https://rafsandev.vercel.app)
-- 📧 Email — [rafsundipto116@gmail.com](mailto:rafsundipto116@gmail.com)
-- 🐦 Twitter / X — [@RafsanJaniDipta](https://x.com/RafsanJaniDipta)
-- 💻 GitHub — [@Rafsan41](https://github.com/Rafsan41)
+### 👨‍💻 About Me
+
+- 👋 Hi, I'm [@Rafsan41](https://github.com/Rafsan41)
+- 🔭 Currently building with **React.js, Next.js & TypeScript** on the frontend
+- ⚙️ Backend: **Node.js · Express.js · PostgreSQL · Prisma · MongoDB**
+- 🌱 Learning **React Native, GraphQL, Docker & AWS**
+- 💬 Ask me about **Full-Stack Web Development & REST APIs**
+- 🚀 Explore my work → [rafsandev.vercel.app](https://rafsandev.vercel.app)
+- 💼 Let's connect → [LinkedIn](https://www.linkedin.com/in/rafsan-dipto)
+- 📫 Reach out → [rafsundipto116@gmail.com](mailto:rafsundipto116@gmail.com)
+
+<br/><br/><br/><br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     SOCIALS
+════════════════════════════════════════════════════════════════════════ -->
+## 📱 FOLLOW ME ON SOCIALS:
+
+<p>
+  <a href="https://www.linkedin.com/in/rafsan-dipto" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/RafsanJaniDipta" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter/X" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rafsan41" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:rafsundipto116@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     TECH STACK
+════════════════════════════════════════════════════════════════════════ -->
+## 🛠️ TECHNOLOGY STACK:
+
+**Languages:**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+**CSS Frameworks & Libraries:**
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+</p>
+
+**JavaScript Frameworks & Libraries:**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux" />
+</p>
+
+**Database & ORM:**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,mysql" />
+</p>
+
+**Deployment Platform:**
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
+</p>
+
+**Design & Graphics:**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+**Tools & Technologies:**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+════════════════════════════════════════════════════════════════════════ -->
+## 🚀 FEATURED PROJECTS:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 GreenRoots</h3>
+      <p>Full-stack herbal e-commerce with authentication, cart, order management & admin dashboard. Built for production with Google OAuth and RBAC.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma" height="28" />
+      </p>
+      <p>
+        <a href="https://greenroots-mauve.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-10b981?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Rafsan41/L2B6A5-GreenRoots-Client">
+          <img src="https://img.shields.io/badge/Source%20Code-7c3aed?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 MediStore</h3>
+      <p>Multi-role medicine marketplace with Admin, Seller & Customer dashboards, inventory management, checkout and full RBAC system.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma" height="28" />
+      </p>
+      <p>
+        <a href="https://medicinestores.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-10b981?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Rafsan41/L2B6A4">
+          <img src="https://img.shields.io/badge/Source%20Code-7c3aed?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     GITHUB STATS & ANALYSIS
+════════════════════════════════════════════════════════════════════════ -->
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+**GitHub Trophies:**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafsan41&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+**GitHub Contributions:**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafsan41&theme=github-compact&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafsan41&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=7c3aed&icon_color=7c3aed&title_color=a78bfa&text_color=e6e6e6" alt="GitHub Stats" />
+  &nbsp;
+  <img height="170" src="https://streak-stats.demolab.com?user=Rafsan41&theme=dark&background=0d1117&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+**Contribution Snake:**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafsan41/Rafsan41/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafsan41/Rafsan41/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rafsan41/Rafsan41/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     RANDOM DEV QUOTE
+════════════════════════════════════════════════════════════════════════ -->
+## &lt;&gt; RANDOM DEV QUOTE:
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Rafsan41&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+  <br/><br/>
+
+  <sub>⭐ If you like my work, consider giving my repos a star — it means a lot!</sub>
+
+</div>
