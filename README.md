@@ -12,15 +12,15 @@
 ════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafsan+Jani+Dipta;Full+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production+apps+%26+SaaS+platforms;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafsan+Jani+Dipta;Full+Stack+Developer+from+Bangladesh;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production+apps+%26+SaaS+platforms;Open+to+Work" alt="Typing SVG" />
 
 <br/><br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-7c3aed?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e)
 &nbsp;
-![Location](https://img.shields.io/badge/📍%20Bangladesh-FF6B35?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Location-Bangladesh-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-rafsandev.vercel.app-10b981?style=for-the-badge&labelColor=1a1a2e)](https://rafsandev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafsandev.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://rafsandev.vercel.app)
 
 </div>
 
@@ -31,23 +31,49 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      ABOUT ME
 ════════════════════════════════════════════════════════════════════════ -->
-## 👨‍💻 ABOUT ME:
+## <img src="https://skillicons.dev/icons?i=github" width="26" style="vertical-align:middle"/> ABOUT ME:
 
-- 👋 Hi, I'm **Rafsan Jani Dipta** — [@Rafsan41](https://github.com/Rafsan41)
-- 🔭 Currently working on **React.js, Next.js & TypeScript** for frontend development
-- ⚙️ Using **Node.js, Express.js, MongoDB, PostgreSQL, and Prisma** for the backend
-- 🌱 Currently learning **React Native, GraphQL, Docker and AWS**
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
-- 🌐 Explore My Portfolio [rafsandev.vercel.app](https://rafsandev.vercel.app)
-- 💼 I regularly connect on [LinkedIn](https://www.linkedin.com/in/rafsan-dipto)
-- 📫 Feel free to reach me out [rafsundipto116@gmail.com](mailto:rafsundipto116@gmail.com)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub"/></td>
+    <td>Hi, I'm <b>Rafsan Jani Dipta</b> — <a href="https://github.com/Rafsan41">@Rafsan41</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" width="22" alt="React"/></td>
+    <td>Currently working on <b>React.js, Next.js &amp; TypeScript</b> for frontend development</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="22" alt="Node.js"/></td>
+    <td>Using <b>Node.js, Express.js, MongoDB, PostgreSQL, and Prisma</b> for the backend</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="22" alt="Docker"/></td>
+    <td>Currently learning <b>React Native, GraphQL, Docker and AWS</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="22" alt="Ask me"/></td>
+    <td>Ask me about <b>Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vercel" width="22" alt="Portfolio"/></td>
+    <td>Explore My Portfolio — <a href="https://rafsandev.vercel.app">rafsandev.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linkedin" width="22" alt="LinkedIn"/></td>
+    <td>I regularly connect on <a href="https://www.linkedin.com/in/rafsan-dipto">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=gmail" width="22" alt="Email"/></td>
+    <td>Feel free to reach me out — <a href="mailto:rafsundipto116@gmail.com">rafsundipto116@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      SOCIALS
 ════════════════════════════════════════════════════════════════════════ -->
-## 📱 FOLLOW ME ON SOCIALS:
+## <img src="https://skillicons.dev/icons?i=linkedin" width="26" style="vertical-align:middle"/> FOLLOW ME ON SOCIALS:
 
 <p>
   <a href="https://www.linkedin.com/in/rafsan-dipto" target="_blank">
@@ -74,7 +100,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      TECH STACK
 ════════════════════════════════════════════════════════════════════════ -->
-## 🛠️ TECHNOLOGY STACK:
+## <img src="https://skillicons.dev/icons?i=vscode" width="26" style="vertical-align:middle"/> TECHNOLOGY STACK:
 
 **Languages:**
 <p>
@@ -118,12 +144,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      FEATURED PROJECTS
 ════════════════════════════════════════════════════════════════════════ -->
-## 🚀 FEATURED PROJECTS:
+## <img src="https://skillicons.dev/icons?i=github" width="26" style="vertical-align:middle"/> FEATURED PROJECTS:
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌿 GreenRoots</h3>
+      <h3><img src="https://skillicons.dev/icons?i=nextjs" width="20" style="vertical-align:middle"/> GreenRoots</h3>
       <p>Full-stack herbal e-commerce with authentication, cart, order management & admin dashboard. Built for production with Google OAuth and RBAC.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma" height="28" />
@@ -139,7 +165,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💊 MediStore</h3>
+      <h3><img src="https://skillicons.dev/icons?i=nextjs" width="20" style="vertical-align:middle"/> MediStore</h3>
       <p>Multi-role medicine marketplace with Admin, Seller & Customer dashboards, inventory management, checkout and full RBAC system.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma" height="28" />
@@ -164,7 +190,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      GITHUB STATS & ANALYSIS
 ════════════════════════════════════════════════════════════════════════ -->
-## 📊 GITHUB STATISTICS & ANALYSIS:
+## <img src="https://skillicons.dev/icons?i=github" width="26" style="vertical-align:middle"/> GITHUB STATISTICS & ANALYSIS:
 
 **GitHub Trophies:**
 
@@ -240,6 +266,6 @@
 
   <br/><br/>
 
-  <sub>⭐ If you like my work, consider giving my repos a star — it means a lot!</sub>
+  <sub><img src="https://skillicons.dev/icons?i=github" width="14" style="vertical-align:middle"/> If you like my work, consider giving my repos a star — it means a lot!</sub>
 
 </div>
