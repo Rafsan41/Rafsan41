@@ -31,20 +31,16 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      ABOUT ME
 ════════════════════════════════════════════════════════════════════════ -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsan41&layout=compact&theme=dark&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e6e6e6&hide_border=false" alt="Top Languages" width="340" />
-
-### 👨‍💻 About Me
+## 👨‍💻 ABOUT ME:
 
 - 👋 Hi, I'm [@Rafsan41](https://github.com/Rafsan41)
-- 🔭 Currently building with **React.js, Next.js & TypeScript** on the frontend
-- ⚙️ Backend: **Node.js · Express.js · PostgreSQL · Prisma · MongoDB**
-- 🌱 Learning **React Native, GraphQL, Docker & AWS**
-- 💬 Ask me about **Full-Stack Web Development & REST APIs**
-- 🚀 Explore my work → [rafsandev.vercel.app](https://rafsandev.vercel.app)
-- 💼 Let's connect → [LinkedIn](https://www.linkedin.com/in/rafsan-dipto)
-- 📫 Reach out → [rafsundipto116@gmail.com](mailto:rafsundipto116@gmail.com)
-
-<br/><br/><br/><br/>
+- 🔭 Currently working on **React.js, Next.js & TypeScript** for frontend development
+- ⚙️ Using **Node.js, Express.js, MongoDB, PostgreSQL, and Prisma** for the backend
+- 🌱 Currently learning **React Native, GraphQL, Docker and AWS**
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
+- 🌐 Explore My Portfolio [rafsandev.vercel.app](https://rafsandev.vercel.app)
+- 💼 I regularly connect on [LinkedIn](https://www.linkedin.com/in/rafsan-dipto)
+- 📫 Feel free to reach me out [rafsundipto116@gmail.com](mailto:rafsundipto116@gmail.com)
 
 ---
 
@@ -185,9 +181,15 @@
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafsan41&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=7c3aed&icon_color=7c3aed&title_color=a78bfa&text_color=e6e6e6" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafsan41&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=7c3aed&icon_color=7c3aed&title_color=a78bfa&text_color=e6e6e6&hide_border=false" alt="GitHub Stats" />
   &nbsp;
-  <img height="170" src="https://streak-stats.demolab.com?user=Rafsan41&theme=dark&background=0d1117&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsan41&layout=compact&theme=dark&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e6e6e6&hide_border=false&langs_count=6" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafsan41&theme=dark&background=0d1117&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa" alt="GitHub Streak" />
 </div>
 
 <br/>
