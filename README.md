@@ -12,7 +12,7 @@
 ════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafsan+Dipto;Full+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production+apps+%26+SaaS+platforms;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafsan+Jani+Dipta;Full+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+production+apps+%26+SaaS+platforms;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 ════════════════════════════════════════════════════════════════════════ -->
 ## 👨‍💻 ABOUT ME:
 
-- 👋 Hi, I'm [@Rafsan41](https://github.com/Rafsan41)
+- 👋 Hi, I'm **Rafsan Jani Dipta** — [@Rafsan41](https://github.com/Rafsan41)
 - 🔭 Currently working on **React.js, Next.js & TypeScript** for frontend development
 - ⚙️ Using **Node.js, Express.js, MongoDB, PostgreSQL, and Prisma** for the backend
 - 🌱 Currently learning **React Native, GraphQL, Docker and AWS**

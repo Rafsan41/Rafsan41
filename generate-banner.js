@@ -157,8 +157,8 @@ ${bubble(165, 65,  15, '#47A248', icons.mongo,  'white',   4.2, 1.2)}
 
   <!-- Name -->
   <text x="415" y="108" text-anchor="middle"
-        font-family="Segoe UI,Arial,sans-serif" font-weight="900" font-size="38" letter-spacing="-0.5"
-        class="name-txt">Rafsan Dipto</text>
+        font-family="Segoe UI,Arial,sans-serif" font-weight="900" font-size="32" letter-spacing="-0.5"
+        class="name-txt">Rafsan Jani Dipta</text>
 
   <!-- Decorative curl arrow -->
   <path d="M590,85 Q606,78 608,92 L596,90"
