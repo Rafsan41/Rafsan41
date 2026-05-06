@@ -169,7 +169,15 @@
 **GitHub Trophies:**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafsan41&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafsan41&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+**GitHub Profile Summary:**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafsan41&theme=github_dark" width="100%" alt="Profile Summary" />
 </div>
 
 <br/>
@@ -181,9 +189,11 @@
 <br/>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafsan41&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=7c3aed&icon_color=7c3aed&title_color=a78bfa&text_color=e6e6e6&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafsan41&theme=github_dark" height="160" alt="GitHub Stats" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsan41&layout=compact&theme=dark&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e6e6e6&hide_border=false&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafsan41&theme=github_dark" height="160" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafsan41&theme=github_dark" height="160" alt="Most Used Languages" />
 </div>
 
 <br/>
