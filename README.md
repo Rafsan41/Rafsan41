@@ -2,7 +2,7 @@
      BANNER
 ════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./banner/banner.png" width="100%" alt="Rafsan Dipto — Full Stack Developer" />
+  <img src="./banner/banner.svg" width="100%" alt="Rafsan Dipto — Full Stack Developer" />
 </div>
 
 <br/>
